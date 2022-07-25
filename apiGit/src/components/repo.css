@@ -1,0 +1,22 @@
+.mainRepo{
+    width: 90%;
+    border: 1px solid rgb(253, 193, 60);
+    padding: 20px 30px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+
+}
+p a{
+    cursor: pointer;
+    color: yellow;
+    text-decoration: none;
+}
